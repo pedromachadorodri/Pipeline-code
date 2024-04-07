@@ -1,0 +1,1 @@
+Pipeline based on the Python language, with the epitopepredict tool as the base code (https://github.com/dmnfarrell/epitopepredict), providing a standardized command line programmatic interface for executing various epitope prediction methods.
